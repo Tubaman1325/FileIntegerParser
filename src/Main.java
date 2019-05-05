@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.Random;
 import java.util.Scanner;
 
-class FileStatParser {
+class FileIntegerParser {
 
     public static void main(String[] args) throws IOException {
 
